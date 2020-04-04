@@ -12,6 +12,6 @@ Objetivo: prever os preços de casas em Boston a partir das informações fornec
 
 Para visualizar a análise completa feita neste projeto, acesse este link:
 
-* https://franklin390.github.io/Project_01_Talking_Data_AdTracking_Fraud_Detection_Challenge/
+* https://franklin390.github.io/Challenge_Project_01_Boston_Houses/
 
 ---
