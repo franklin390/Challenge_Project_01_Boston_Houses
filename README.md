@@ -1,0 +1,17 @@
+# **Challenge Project 0 1 - Boston Houses**
+
+*18 de março, 2020*
+
+## **Descrição geral do problema**
+
+---
+
+Este conjunto de dados contém informações coletadas pelo Serviço de Censo dos EUA sobre moradias na área de Massachusetts Mass. Foi obtido no arquivo StatLib e tem sido amplamente utilizado em todo o país na literatura para comparar algoritmos. O conjunto de dados é pequeno, com apenas 506 registros.
+
+Objetivo: prever os preços de casas em Boston a partir das informações fornecidas pelo conjunto de dados. Iremos avaliar os modelos preditivos a serem desenvolvidos a partir da métrica R-squared (R2).
+
+Para visualizar a análise completa feita neste projeto, acesse este link:
+
+* https://franklin390.github.io/Project_01_Talking_Data_AdTracking_Fraud_Detection_Challenge/
+
+---
